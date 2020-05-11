@@ -1,0 +1,8 @@
+# HTTP Cookie File for leetcode.com by Genuinous @genuinous.
+# To download cookies for this tab click here, or download all cookies.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://leetcode.com/problems/lru-cache/discuss/45976/C%2B%2B11-code-74ms-Hash-table-%2B-List"
+#   2) curl --cookie cookies.txt "https://leetcode.com/problems/lru-cache/discuss/45976/C%2B%2B11-code-74ms-Hash-table-%2B-List"
+#   3) aria2c --load-cookies cookies.txt "https://leetcode.com/problems/lru-cache/discuss/45976/C%2B%2B11-code-74ms-Hash-table-%2B-List"
+#
+__cfduid=d2ecfb24eb2a86fbfd4edec4c0cc5d7881587587802;_ga=GA1.2.1864268249.1587587804;_gid=GA1.2.1808896602.1587587804;csrftoken=27srFJkgGljhECADYoCknGpxFVtM1hFKt57bTVHsfmI0dAtw3qe3KHyK7zAql6fu;LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiMjMwMTU0NyIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImRqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kIiwiX2F1dGhfdXNlcl9oYXNoIjoiZDdiZWYzNzAxYzgzZGEwNjRkMTQxZjc1OGE2MzA4YjU0NjIwYzQwNiIsImlkIjoyMzAxNTQ3LCJlbWFpbCI6ImYyMDE3MDM3OUBwaWxhbmkuYml0cy1waWxhbmkuYWMuaW4iLCJ1c2VybmFtZSI6Imh1c2thcmwiLCJ1c2VyX3NsdWciOiJodXNrYXJsIiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzL2h1c2thcmwvYXZhdGFyXzE1ODc1ODQxMTUucG5nIiwidGltZXN0YW1wIjoiMjAyMC0wNC0yMiAyMDozNjo1Mi44NDEzMTcrMDA6MDAiLCJJUCI6IjI0MDE6NDkwMDo0MThlOjZkNGE6NDgxMTpiNTZmOjk1ZGI6ZGQxNSIsIklERU5USVRZIjoiMTU3MGFkZDRiM2U2NjBmMjc4MzViZGNhNTA4MTRhNzEiLCJfc2Vzc2lvbl9leHBpcnkiOjEyMDk2MDB9.tYaPkrnM600cMpvliKt2Sb3PN2veu6bfVv1aNV58IRk;c_a_u="aHVza2FybA==:1jS6lM:dL6cAJS6zWsq8Po7HPTcI6lW0U0";__atuvc=6%7C17
