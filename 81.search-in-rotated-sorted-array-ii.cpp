@@ -20,24 +20,24 @@ public:
                 return true;
             }
 
-            if (nums[mid] == nums[l] && nums[mid] == nums[r])
+            if (nums[l] < nums[mid])
             {
-                r--;
-                l++;
-            }
-            else if (nums[l] <= target && target < nums[mid])
-            {
-                if (nums[mid] < target)
+                if (target < nums[mid] && nums[l] <= target)
                     r = mid - 1;
                 else
                     l = mid + 1;
+            }
+            else if (nums[mid] < nums[r])
+            {
+                if (target > nums[mid] && nums[r] >= target)
+                    l = mid + 1;
+                else
+                    r = mid - 1;
             }
             else
             {
-                if (nums[mid] < target && nums[r] >= target)
-                    l = mid + 1;
-                else
-                    r = mid - 1;
+                if(nums[mid] == nums[l]) l++;
+                if(nums[mid] == nums[r]) r--;
             }
         }
         return false;
